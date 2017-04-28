@@ -7,7 +7,6 @@
 ## Culture, Art, Music, Literature, Arch, Cinema, TV, Design and Creatives
 
 ### [Ebermine](http://embermine.com)
-**The Operating System for the Creative Lifestyle**
 > Embermine is a smart contract platform designed to empower users in ALL of their projects by GUARANTEEING proper revenue and royalty share between all collaborators.
 Join a community of Creators, Customers and Collaborators, and utilize smart contracts to develop original digital content and projects for consumers to buy, up-vote and share!
 
