@@ -3,4 +3,9 @@
 ##### THE DECENTRALISATION OF CULTURE
 
 
-> 
+> manifesto
+
+
+## Culture, Art, Cinema, Arch, Design and Creatives
+
+## 
