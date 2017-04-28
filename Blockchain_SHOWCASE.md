@@ -1,4 +1,4 @@
-# dcentcult
+# d c e n t c u l t
 ##### THE CULTURE OF DECENTRALISATION
 ##### THE DECENTRALISATION OF CULTURE
 
