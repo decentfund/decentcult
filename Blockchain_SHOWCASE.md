@@ -228,7 +228,7 @@ to replace traditional Proof-of-Work cryptocurrency mining prevalent in the bloc
 [Slack chat]()|
 [Telegram chat]()
 
-## Economy, Financial, FinTech, Banking, Insurance
+## Economy, Financial, FinTech, Banking, Insurance
 
 ### [Humaniq ](https://humaniq.co/) *HMQ*
 **Banking 4.0 at your fingertips**
@@ -320,7 +320,7 @@ Everybody can apply for, or create, an unlimited number of jobs. All that is nee
 
 ## Medicine, Health, Sports
 
-## Auctions, Trading, Logistics
+## Auctions, Trading, Logistics
 
 ## Private, Anonymous, DarkNet
 
@@ -330,7 +330,7 @@ Everybody can apply for, or create, an unlimited number of jobs. All that is nee
 
 ## Mining, Pools, Algos
 
-## Blockchain b2b (We will make and support blockchain for you!)
+## Blockchain b2b (We will make and support blockchain for you!)
 
 ### [OTONOMOS](https://www.otonomos.com) *OBITS*
 **EASY COMPANY INCORPORATION AND GOVERNANCE**
