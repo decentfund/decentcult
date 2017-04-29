@@ -57,7 +57,7 @@ Join a community of Creators, Customers and Collaborators, and utilize smart con
 [Telegram chat]()
 
 
-### [mediachain](http://www.mediachain.io/) *Accuired by Spotify 28.04.2017*
+### [mediachain](http://www.mediachain.io/) *!acquired by Spotify 28.04.2017*
 **Building a more connected world for creators and audiences**
 > Mediachain is a blockchain data solution for connecting applications to media and information about it. Mediachain is a peer-to-peer, decentralized database for sharing information across applications and organizations. Using content addressing, data is tamper-proof and decentralized, enabling location-independent collaboration with no central point of control.
 
