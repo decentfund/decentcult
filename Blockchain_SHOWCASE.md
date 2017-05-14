@@ -253,6 +253,9 @@ DAPPS: Price Discovery, Insurance, Futarchy/Governance, Financial Markets, The H
 [Linkedin](https://www.linkedin.com/company/7582714)
 
 
+### [Ambisafe](https://www.ambisafe.co/)
+**Ethereum Asset Platform**
+> With Ambisafe you can issue any type of asset on the blockchain in minutes, and add it to cryptocurrency exchanges worldwide.
 
 
 ### [OpenLedger](https://openledger.info/) *OBITS*
