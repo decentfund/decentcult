@@ -32,13 +32,8 @@ Join a community of Creators, Customers and Collaborators, and utilize smart con
 [Github](https://github.com/creativechain)|
 [Whitepaper](http://creativechain.org/wp-content/uploads/2017/03/Whitepaper-Creativechain-1.2.pdf)|
 [Website](https://creativechain.org/)|
-[Tokenmarket](https://tokenmarket.net/blockchain/blockchain/assets/creative-chain/)|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Tokenmarket](https://tokenmarket.net/blockchain/blockchain/assets/creative-chain/)
+
 
 
 ### [Musicoins](https://www.musicoin.org/) *MUSIC*
@@ -48,13 +43,8 @@ Join a community of Creators, Customers and Collaborators, and utilize smart con
 [Github]()|
 [Whitepaper](https://hackernoon.com/musicoin-free-creations-while-rewarding-creators-2832f7d2bd33)|
 [Website](https://www.musicoin.org/)|
-[Tokenmarket](https://tokenmarket.net/blockchain/musiccoin/assets/musicoins/)|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Tokenmarket](https://tokenmarket.net/blockchain/musiccoin/assets/musicoins/)
+
 
 
 ### [mediachain](http://www.mediachain.io/) *!acquired by Spotify 28.04.2017*
@@ -64,13 +54,8 @@ Join a community of Creators, Customers and Collaborators, and utilize smart con
 [Github](https://github.com/mediachain)|
 [Whitepaper](https://hackernoon.com/musicoin-free-creations-while-rewarding-creators-2832f7d2bd33)|
 [Website](https://www.musicoin.org/)|
-[Tokenmarket](https://tokenmarket.net/blockchain/musiccoin/assets/musicoins/)|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Tokenmarket](https://tokenmarket.net/blockchain/musiccoin/assets/musicoins/)
+
 Amazing documentation with detailed examples, Based on IPFS
 
 
@@ -80,14 +65,8 @@ Amazing documentation with detailed examples, Based on IPFS
 
 [Github](https://github.com/dotbc)|
 [Whitepaper]()|
-[Website](http://dotblockchainmusic.com/)|
-[Tokenmarket]()|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Website](http://dotblockchainmusic.com/)
+
 
 
 ### [ujo](https://ujomusic.com/)
@@ -98,14 +77,8 @@ A neutral backbone would be greatly beneficial for the music industry; however, 
 
 [Beta](https://goo.gl/forms/p4jbQ8oyjo1QC8A43)|
 [Whitepaper](https://hackernoon.com/musicoin-free-creations-while-rewarding-creators-2832f7d2bd33)|
-[Website](https://ujomusic.com/)|
-[Tokenmarket]()|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Website](https://ujomusic.com/)
+
 
 
 ### [blokur](http://www.blokur.com/)
@@ -114,14 +87,8 @@ A neutral backbone would be greatly beneficial for the music industry; however, 
 
 [Github]()|
 [Whitepaper]()|
-[Website](http://www.blokur.com/)|
-[Tokenmarket]()|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Website](http://www.blokur.com/)
+
 
 
 ### [res()nate](https://resonate.is/)
@@ -130,14 +97,7 @@ A neutral backbone would be greatly beneficial for the music industry; however, 
 
 [Github](http://github.com/resonatecoop/)|
 [Whitepaper]()|
-[Website](https://resonate.is/)|
-[Tokenmarket]()|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Website](https://resonate.is/)
 
 
 
@@ -147,14 +107,7 @@ A neutral backbone would be greatly beneficial for the music industry; however, 
 
 [HackWeekends](http://www.myceliaformusic.org/#hackweekends)|
 [Whitepaper]()|
-[Website](http://myceliaformusic.org)|
-[Tokenmarket]()|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Website](http://myceliaformusic.org)
 
 
 ### [Token A](https://www.tokena.net/)
@@ -164,14 +117,8 @@ between the art, legal and financial markets
 
 [Github]()|
 [Whitepaper]()|
-[Website](https://www.tokena.net/)|
-[Tokenmarket]()|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Website](https://www.tokena.net/)
+
 
 
 
@@ -189,10 +136,8 @@ to replace traditional Proof-of-Work cryptocurrency mining prevalent in the bloc
 [Tokenmarket]()|
 [Blog](https://medium.com/@sonm/)|
 [Facebook](https://www.facebook.com/SONMproject/)|
-[Twitter](https://twitter.com/sonmdevelopment)|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Twitter](https://twitter.com/sonmdevelopment)
+
 
 
 ### [iExec](http://iex.ec) *RLC*
@@ -202,14 +147,10 @@ to replace traditional Proof-of-Work cryptocurrency mining prevalent in the bloc
 [Github](https://github.com/iExecBlockchainComputing)|
 [Whitepaper](http://crowdsale.iex.ec/#whitepaper)|
 [Website](http://iex.ec)|
-[Tokenmarket]()|
-[Blog]()|
 [Reddit](https://www.reddit.com/r/iexec/)|
-[Facebook]()|
 [Twitter](https://twitter.com/iEx_ec)|
-[Linkedin]()|
-[Slack chat](http://slack.iex.ec/)|
-[Telegram chat]()
+[Slack chat](http://slack.iex.ec/)
+
 
 ## Education, Social
 
@@ -221,12 +162,8 @@ to replace traditional Proof-of-Work cryptocurrency mining prevalent in the bloc
 [Whitepaper](https://github.com/Lunyr/Lunyr/blob/master/Lunyr_White_Paper_ENG.pdf)|
 [Website](https://lunyr.com/)|
 [Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/lunyr/)|
-[Blog](https://medium.com/lunyr)|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Blog](https://medium.com/lunyr)
+
 
 ## Economy, Financial, FinTech, Banking, Insurance
 
@@ -237,13 +174,8 @@ to replace traditional Proof-of-Work cryptocurrency mining prevalent in the bloc
 [Github](https://github.com/humaniq)|
 [Whitepaper](https://docs.google.com/document/d/1VNaQeKScFIX5YN2DoIofpgwx2Hen6Cksycwvilk8g9k/edit)|
 [Website](https://humaniq.co/)|
-[Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/humaniq/)|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/humaniq/)
+
 
 
 
@@ -256,12 +188,8 @@ to replace traditional Proof-of-Work cryptocurrency mining prevalent in the bloc
 [Whitepaper]()|
 [Website](https://www.tokenbrowser.com/)|
 [Tokenmarket]()|
-[Blog](https://blog.tokenbrowser.com/)|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Blog](https://blog.tokenbrowser.com/)
+
 
 
 ### [Bitbond](https://www.bitbond.com/resources/invest/bitcoin-lending/)
@@ -270,14 +198,8 @@ to replace traditional Proof-of-Work cryptocurrency mining prevalent in the bloc
 
 [Github]()|
 [Whitepaper]()|
-[Website](https://www.bitbond.com/resources/invest/bitcoin-lending/)|
-[Tokenmarket]()|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Website](https://www.bitbond.com/resources/invest/bitcoin-lending/)
+
 
 
 
@@ -291,13 +213,8 @@ LH are linked to average hourly wages in the host country and are backed by a re
 [Github]()|
 [Whitepaper](http://chronobank.io/lh_token_en.pdf)|
 [Website](https://chronobank.io/)|
-[Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/chronobank/)|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/chronobank/)
+
 
 
 ### [Ethlance](ethlance.com) *ETH, Gas*
@@ -311,12 +228,8 @@ Everybody can apply for, or create, an unlimited number of jobs. All that is nee
 [Whitepaper]()|
 [Website](ethlance.com)|
 [Tokenmarket]()|
-[Blog]()|
-[Facebook]()|
-[Twitter](https://twitter.com/ethlance)|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Twitter](https://twitter.com/ethlance)
+
 
 ## Prediction Markets, Oracles
 
@@ -328,12 +241,7 @@ Everybody can apply for, or create, an unlimited number of jobs. All that is nee
 [Whitepaper](http://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf)|
 [Website](https://www.augur.net/)|
 [Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/augur/)|
-[Blog](http://blog.augur.net/)|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Blog](http://blog.augur.net/)
 
 
 ### [æeternity ](http://www.aeternity.com/) *AE*
@@ -345,12 +253,8 @@ Everybody can apply for, or create, an unlimited number of jobs. All that is nee
 [Whitepaper](http://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf)|
 [Website](http://www.aeternity.com/)|
 [Tokenmarket](https://tokenmarket.net/blockchain/aeternity/assets/aeternity/)|
-[Blog]()|
-[Facebook]()|
-[Twitter](https://twitter.com/aetrnty)|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Twitter](https://twitter.com/aetrnty)
+
 
 ### [GNOSIS ](https://gnosis.pm/) *GNO*
 **Crowd Sourced Wisdom**
@@ -361,13 +265,7 @@ DAPPS: Price Discovery, Insurance, Futarchy/Governance, Financial Markets, The H
 [Github](https://github.com/ConsenSys/gnosis.js)|
 [Whitepaper](https://gnosis.pm/resources/default/pdf/gnosis_whitepaper.pdf)|
 [Website](https://gnosis.pm/)|
-[Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/gnosis/)|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/gnosis/)
 
 ## Medicine, Health, Sports
 
@@ -389,49 +287,30 @@ DAPPS: Price Discovery, Insurance, Futarchy/Governance, Financial Markets, The H
  Anybody who ever played with Lego knows that the fun is in the building: Few children play with what they built in Lego. The same goes for founders.  I managed to exit my last business just before Lehman collapsed.  It took me years to find an idea I knew dead certain I could spend the next decade of my life building. The idea came to me in summer 2014 whilst spending time in Silicon Valley, where I sensed an early movement to use distributed processing power to let anybody with access to a computer invest, borrow, contribute, shop, manufacture, vote, donate, spend and earn without the need for a central authority. It was this promise of a decentralised financial infrastructure for the future that prompted me to incorporate Otonomos in early 2015 upon my return to Singapore, and start building a team around the idea who would bring the same passion and dedication to executing it. Whilst no doubt there will be countless obstacles on our journey, all of us here at Otonomos are carried by this ideal of building what we believe will result in a new vehicle for human ingenuity. I hope you’ll follow Otonomos on its journey. Han, Founder & CEO
 
 
-[Github]()|
-[Whitepaper]()|
 [Website](https://www.otonomos.com)|
-[Tokenmarket]()|
-[Blog]()|
 [Facebook](https://www.facebook.com/Otonomos-1676386915933541)|
 [Twitter](https://twitter.com/Otonomos)|
-[Linkedin](https://www.linkedin.com/company/7582714)|
-[Slack chat]()|
-[Telegram chat]()
+[Linkedin](https://www.linkedin.com/company/7582714)
+
 
 
 ### [OpenLedger](https://openledger.info/) *OBITS*
 **A Decentralized Conglomerate: Ecosystem of Ecosystems**
 > OpenLedger allows you to convert bitcoin to fiat-pegged SmartCoins instantly or by limit order. SmartCoins can be withdrawn directly to cash via NanoCard, PayPal, Ripple gateway or money transfer.
 
-[Github]()|
-[Whitepaper]()|
 [Website](https://www.openledger.info/)|
-[Tokenmarket](https://tokenmarket.net/blockchain/graphene/assets/openledger/)|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Tokenmarket](https://tokenmarket.net/blockchain/graphene/assets/openledger/)
+
 
 
 ### [CCEDK](https://www.ccedk.com/)
 **Innovation & Passion, Sky is the limit**
 > Startup service provider to help crowd fund your future... What is this? We have the great pleasure of introducing to you the world's first conglomerate where ecosystems represented by digital tokens and their unique qualities each complement one another and all of them with one common denominator – they are all powered by the blockchain. A transparent, open and trustless powerhouse of information governed by no one and everyone with each participant in control of something, mainly their own account, and no one ever in control of everything. It is a symbiosis of perfection, trust, speed and transparency. Welcome to the future. The Decentralized Conglomerate represents the new paradigm of organizational operations, by applying the theoretical construct of digital leadership to the conceptual design of the DC ecosystems
 
-
-[Github]()|
 [Whitepaper](https://www.ccedk.com/dc/white-paper)|
 [Website](https://www.ccedk.com/)|
-[Tokenmarket](https://tokenmarket.net/blockchain/graphene/assets/openledger/)|
-[Blog]()|
-[Facebook]()|
-[Twitter]()|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Tokenmarket](https://tokenmarket.net/blockchain/graphene/assets/openledger/)
+
 
 
 
@@ -453,15 +332,8 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 [Github](https://github.com/status-im)|
 [Wiki](https://wiki.status.im/)|
 [Website](https://status.im/)|
-[Tokenmarket]()|
-[Blog]()|
 [Reddit](https://www.reddit.com/r/statusim/)|
-[Facebook]()|
-[Twitter](https://twitter.com/ethstatus)|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
-
+[Twitter](https://twitter.com/ethstatus)
 
 
 ## Trading, Exchanges, Bots
@@ -474,14 +346,10 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 [Github](https://github.com/WAVESPLATFORM/)|
 [Whitepaper](https://wavesplatform.com/files/whitepaper_v0_ENG.pdf)|
 [Website](https://wavesplatform.com/#)|
-[Tokenmarket]()|
-[Blog]()|
 [Reddit](https://wavesplatform.com/img/footer_links_reddit.svg)|
 [Facebook]()|
-[Twitter](https://twitter.com/wavesplatform)|
-[Linkedin]()|
-[Slack chat]()|
-[Telegram chat]()
+[Twitter](https://twitter.com/wavesplatform)
+
 
 ## Advanced Blockchains (Smart contracts and beyond)
 
@@ -495,6 +363,8 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 ### [æeternity ](http://www.aeternity.com/) *AE*
 **Scalable smart contracts interfacing with real world data.**
 
+[Github](https://github.com/aeternity)|
+[Whitepaper](http://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf)
 
 ## Programming, Languages, Devs
 
