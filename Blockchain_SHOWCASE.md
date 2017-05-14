@@ -492,6 +492,8 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 ### [Counterparty](http://counterparty.io) *XCP*
 **extends Bitcoin in new and powerful ways**
 
+### [æeternity ](http://www.aeternity.com/) *AE*
+**Scalable smart contracts interfacing with real world data.**
 
 
 ## Programming, Languages, Devs
