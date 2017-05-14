@@ -254,6 +254,7 @@ DAPPS: Price Discovery, Insurance, Futarchy/Governance, Financial Markets, The H
 
 
 
+
 ### [OpenLedger](https://openledger.info/) *OBITS*
 **A Decentralized Conglomerate: Ecosystem of Ecosystems**
 > OpenLedger allows you to convert bitcoin to fiat-pegged SmartCoins instantly or by limit order. SmartCoins can be withdrawn directly to cash via NanoCard, PayPal, Ripple gateway or money transfer.
@@ -272,6 +273,7 @@ DAPPS: Price Discovery, Insurance, Futarchy/Governance, Financial Markets, The H
 
 
 ## DAPPS
+
 
 ### [TAP](http://tap.dappbench.com/)
 **Transaction Attestation Protocol Human Friendly Smart Contract Transactions**
@@ -305,7 +307,26 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 [Twitter](https://twitter.com/wavesplatform)
 
 
+
+
 ## Advanced Blockchains (Smart contracts and beyond)
+
+
+### [Polkadot](http://polkadot.io/)
+**Connecting Trust**
+Polkadot network protocol, the heterogeneous extensible multi-chain. Polkadot allows new designs of blockchains to communicate and pool their security while still allowing them to have entirely arbitrary state-transition functions. This opens to the door to an "internet" of blockchains, where private and consortium chains can be firewalled from open and public chains like Ethereum without losing the ability to communicate with them on their own terms, not unlike the intranet/internet synergy we see today.
+
+[Github](https://github.com/polkadot-io)|
+[Whitepaper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
+
+
+### [IOTA](https://www.iotatoken.com/) *IOTA*
+**THE BACKBONE OF IOT IS HERE**
+The Economy of Things: as Internet-of-Things keep expanding the need for interoperability and sharing of resources become a necessity. IOTA enables companies to explore new business-2-business models by making every technological resource a potential service to be traded on an open market in real time, with no fees.
+
+[Github](https://github.com/iotaledger/)|
+[Whitepaper](https://iota.readme.io/docs/whitepaper)
+
 
 ### [Ethereum](https://www.ethereum.org) *ETH*
 **Build unstoppable applications**
