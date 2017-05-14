@@ -318,6 +318,57 @@ Everybody can apply for, or create, an unlimited number of jobs. All that is nee
 [Slack chat]()|
 [Telegram chat]()
 
+## Prediction Markets, Oracles
+
+### [Augur ](https://augur.net/) *REP*
+**Welcome to the future of forecasting**
+> Augur combines the magic of prediction markets with the power of a decentralized network to create a stunningly accurate forecasting tool - and the chance for real money trading profits
+
+[Github](https://github.com/AugurProject)|
+[Whitepaper](http://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf)|
+[Website](https://www.augur.net/)|
+[Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/augur/)|
+[Blog](http://blog.augur.net/)|
+[Facebook]()|
+[Twitter]()|
+[Linkedin]()|
+[Slack chat]()|
+[Telegram chat]()
+
+
+### [æeternity ](http://www.aeternity.com/) *AE*
+**Scalable smart contracts interfacing with real world data.**
+> æternity is a new blockchain technology, designed to deliver unmatched efficiency, transparent governance and global scalability. Hello IoT, IoV, FinTech, Video Gaming, The Unbanked, Trustless Exchanges, and instant Micropayments! We believe in relentless evolution of systems and societies. æternity will push the boundaries of innovation and make blockchain technology ready for mass adoption. State Channels, Decentralized Oracles, Consensus,. Unique Governance
+
+
+[Github](https://github.com/aeternity)|
+[Whitepaper](http://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf)|
+[Website](http://www.aeternity.com/)|
+[Tokenmarket](https://tokenmarket.net/blockchain/aeternity/assets/aeternity/)|
+[Blog]()|
+[Facebook]()|
+[Twitter](https://twitter.com/aetrnty)|
+[Linkedin]()|
+[Slack chat]()|
+[Telegram chat]()
+
+### [GNOSIS ](https://gnosis.pm/) *GNO*
+**Crowd Sourced Wisdom**
+> Based on Ethereum — The next generation blockchain network.
+Speculate on anything with an easy-to-use prediction market. 
+DAPPS: Price Discovery, Insurance, Futarchy/Governance, Financial Markets, The Hunch Game
+
+[Github](https://github.com/ConsenSys/gnosis.js)|
+[Whitepaper](https://gnosis.pm/resources/default/pdf/gnosis_whitepaper.pdf)|
+[Website](https://gnosis.pm/)|
+[Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/gnosis/)|
+[Blog]()|
+[Facebook]()|
+[Twitter]()|
+[Linkedin]()|
+[Slack chat]()|
+[Telegram chat]()
+
 ## Medicine, Health, Sports
 
 ## Auctions, Trading, Logistics
