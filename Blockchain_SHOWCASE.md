@@ -247,6 +247,7 @@ DAPPS: Price Discovery, Insurance, Futarchy/Governance, Financial Markets, The H
 
 ### [Komodo](https://komodoplatform.com/) *KMD*
 ZEC fork with DPOW. Project from SuperNET
+
 [dPoW Whitepaper](https://komodoplatform.com/downloads/Komodo_dPoW_Whitepaper_v1.pdf)
 [DEX Whitepaper](https://komodoplatform.com/downloads/DEX_Whitepaper_v1.pdf)
 
