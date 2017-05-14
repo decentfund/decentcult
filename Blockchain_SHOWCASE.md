@@ -274,6 +274,14 @@ DAPPS: Price Discovery, Insurance, Futarchy/Governance, Financial Markets, The H
 
 ## DAPPS
 
+### [State of DAPPS](https://dapps.ethercasts.com/)
+**A Curated Collection of Decentralized Apps**
+> Lists of all Ethereum DApps known to mankind. Watch our presentation https://youtu.be/iqBNPh5IMqM
+Authorative source: https://docs.google.com/spreadsheets/d/1VdRMFENPzjL2V-vZhcc_aa5-ysf243t5vXlxC2b054g/edit?usp=sharing
+This is a service provided by EtherCasts
+
+[Github](https://github.com/EtherCasts/state-of-the-dapps)|
+[Whitepaper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
 
 ### [TAP](http://tap.dappbench.com/)
 **Transaction Attestation Protocol Human Friendly Smart Contract Transactions**
@@ -293,7 +301,43 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 [Twitter](https://twitter.com/ethstatus)
 
 
-## Trading, Exchanges, Bots
+## Investment, Trading, Exchanges, Bots
+
+### [TaaS](https://taas.fund/) *TaaS*
+**Closed Investment Fund - Token as a Service**
+> TaaS is a tokenized closed-end fund designed to reduce the risks and technical barriers of investing in the blockchain space. Built on a profit-sharing smart contract, TaaS introduces an innovative Token-as-a-Service business model, allowing investors to subscribe to the fund’s income stream. TaaS built an innovative Cryptographic Audit technology to become the first, truly transparent fund dedicated to cryptocurrencies and tokens. 
+
+[Linkedin](https://www.linkedin.com/company-beta/17897835/)
+[Whitepaper](http://taas.fund/media/whitepaper.pdf)
+
+
+### [Iconomi](https://www.iconomi.net/)
+**Your connection to the distributed economy**
+> The ICONOMI Digital Assets Management Platform is a new and unique technical service that allows anyone from beginners to blockchain experts to invest and manage digital assets.
+
+[Reddit](https://www.reddit.com/r/ICONOMI)|
+[Whitepaper](https://bravenewcoin.com/assets/Whitepapers/ICONOMI-Whitepaper.pdf) (old?)
+
+
+### [Bitsquare](https://bitsquare.io/)
+**The decentrilized bitcoin exchange**
+> Bitsquare is an open-source desktop application that allows you to buy and sell bitcoins in exchange for national currencies, or alternative crypto currencies.
+
+[Github](https://github.com/bitsquare/bitsquare)|
+[Whitepaper](https://bitsquare.io/bitsquare.pdf)
+
+
+### [Timmolter XChange](http://knowm.org/open-source/xchange/)
+**Connecting Trust**
+> Polkadot network protocol, the heterogeneous extensible multi-chain. Polkadot allows new designs of blockchains to communicate and pool their security while still allowing them to have entirely arbitrary state-transition functions. This opens to the door to an "internet" of blockchains, where private and consortium chains can be firewalled from open and public chains like Ethereum without losing the ability to communicate with them on their own terms, not unlike the intranet/internet synergy we see today.
+
+[Github](https://github.com/timmolter/xchange)|
+[Wiki](https://github.com/timmolter/XChange/wiki)
+
+
+### [Cryptoindexes](http://cryptoindexes.com/)
+**Extracting performance data from the cryptocurrencies markets**
+> TOP20 ALTs performance
 
 ### [Waves DEX](https://blog.wavesplatform.com/waves-dex-goes-live-in-lite-client-deadb161b592)
 **Secure, Fast Decentralized Exchange**
@@ -314,7 +358,7 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 
 ### [Polkadot](http://polkadot.io/)
 **Connecting Trust**
-Polkadot network protocol, the heterogeneous extensible multi-chain. Polkadot allows new designs of blockchains to communicate and pool their security while still allowing them to have entirely arbitrary state-transition functions. This opens to the door to an "internet" of blockchains, where private and consortium chains can be firewalled from open and public chains like Ethereum without losing the ability to communicate with them on their own terms, not unlike the intranet/internet synergy we see today.
+> Polkadot network protocol, the heterogeneous extensible multi-chain. Polkadot allows new designs of blockchains to communicate and pool their security while still allowing them to have entirely arbitrary state-transition functions. This opens to the door to an "internet" of blockchains, where private and consortium chains can be firewalled from open and public chains like Ethereum without losing the ability to communicate with them on their own terms, not unlike the intranet/internet synergy we see today.
 
 [Github](https://github.com/polkadot-io)|
 [Whitepaper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
@@ -322,7 +366,7 @@ Polkadot network protocol, the heterogeneous extensible multi-chain. Polkadot al
 
 ### [IOTA](https://www.iotatoken.com/) *IOTA*
 **THE BACKBONE OF IOT IS HERE**
-The Economy of Things: as Internet-of-Things keep expanding the need for interoperability and sharing of resources become a necessity. IOTA enables companies to explore new business-2-business models by making every technological resource a potential service to be traded on an open market in real time, with no fees.
+> The Economy of Things: as Internet-of-Things keep expanding the need for interoperability and sharing of resources become a necessity. IOTA enables companies to explore new business-2-business models by making every technological resource a potential service to be traded on an open market in real time, with no fees.
 
 [Github](https://github.com/iotaledger/)|
 [Whitepaper](https://iota.readme.io/docs/whitepaper)
@@ -330,7 +374,7 @@ The Economy of Things: as Internet-of-Things keep expanding the need for interop
 
 ### [Ethereum](https://www.ethereum.org) *ETH*
 **Build unstoppable applications**
-Ethereum is a  decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
+> Ethereum is a  decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
 
 [Github](http://github.com/ethereum/)|
 [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
@@ -356,3 +400,9 @@ Ethereum is a  decentralized platform that runs smart contracts: applications th
 ## Pyramids, Ponzi, HYIP
 
 ## TOP fails and successes
+
+### The DAO
+> The biggest croudfounding ever failed
+
+### [Why ICOs fail](https://medium.com/iconominet/why-icos-fail-1f9530a6d135) (article on Medium)
+by Daniel Zakrisson
