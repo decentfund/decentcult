@@ -148,7 +148,16 @@ Amazing documentation with detailed examples, Based on IPFS
 [Blog](https://medium.com/lunyr)
 
 
+
 ## Economy, Financial, FinTech, Banking, Insurance
+
+
+### [Polybius ](https://polybius.io/)
+**Polybius is a project aimed to create a regulated bank for the digital generation**
+> Polybius Bank will combine features of modern banking, IoT, Big Data and Blockchain-based technologies while also meeting security and UX requirements. The Digital Pass technology, developed by HashCoins and implemented into Polybius Bank, will serve as an automation and digitalization ecosystem, allowing us to not only integrate single companies, but entire industries enabling access to financial and industrial services in the same Pass, at a click’s hand. 
+
+[Whitepaper](https://polybius.io/media/token_whitepaper.pdf)
+
 
 ### [Humaniq ](https://humaniq.co/) *HMQ*
 **Banking 4.0 at your fingertips**
@@ -157,8 +166,6 @@ Amazing documentation with detailed examples, Based on IPFS
 [Github](https://github.com/humaniq)|
 [Whitepaper](https://docs.google.com/document/d/1VNaQeKScFIX5YN2DoIofpgwx2Hen6Cksycwvilk8g9k/edit)|
 [Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/humaniq/)
-
-
 
 
 ### [Tokenbrowser](https://www.tokenbrowser.com/)
@@ -233,7 +240,32 @@ DAPPS: Price Discovery, Insurance, Futarchy/Governance, Financial Markets, The H
 
 ## Auctions, Trading, Logistics
 
+
+
 ## Private, Anonymous, DarkNet
+
+
+### [Komodo](https://komodoplatform.com/) *KMD*
+ZEC fork with DPOW. Project from SuperNET
+[dPoW Whitepaper](https://komodoplatform.com/downloads/Komodo_dPoW_Whitepaper_v1.pdf)
+[DEX Whitepaper](https://komodoplatform.com/downloads/DEX_Whitepaper_v1.pdf)
+
+
+### *ZEC*
+Private Zero knwoledge blockchain
+
+
+### *ZCL*
+ZEC fork
+
+
+### *ZEN*
+ZCL rebranding
+
+
+### *HUSH*
+ZEC fork
+
 
 ## Grey
 
