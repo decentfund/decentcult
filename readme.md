@@ -168,14 +168,6 @@ Amazing documentation with detailed examples, Based on IPFS
 [Tokenmarket](https://tokenmarket.net/blockchain/ethereum/assets/humaniq/)
 
 
-### [Tokenbrowser](https://www.tokenbrowser.com/)
-**Access An Open Financial System**
-> Token is an open source browser for the Ethereum network. Our mission is to provide universal access to financial services. Token is built like a web browser (we don't host any of the apps or have access to customer funds). It is a piece of software that runs on the customer's computer, and sensitive information (like private keys) never leave that computer. We have official clients for Android and iOS today. Token uses a variety of open protocols, including the Signal protocol by Whisper Systems for end-to-end encrypted chat, the Ethereum network to transfer value, the SOFA protocol to enable third party apps, and (coming soon) the uPort identity protocol to store user profiles.
-
-
-[Github](https://github.com/tokenbrowser)|
-[Blog](https://blog.tokenbrowser.com/)
-
 
 
 ### [Bitbond](https://www.bitbond.com/resources/invest/bitcoin-lending/)
@@ -335,6 +327,15 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 [Wiki](https://wiki.status.im/)|
 [Reddit](https://www.reddit.com/r/statusim/)|
 [Twitter](https://twitter.com/ethstatus)
+
+
+### [Tokenbrowser](https://www.tokenbrowser.com/)
+**Access An Open Financial System**
+> Token is an open source browser for the Ethereum network. Our mission is to provide universal access to financial services. Token is built like a web browser (we don't host any of the apps or have access to customer funds). It is a piece of software that runs on the customer's computer, and sensitive information (like private keys) never leave that computer. We have official clients for Android and iOS today. Token uses a variety of open protocols, including the Signal protocol by Whisper Systems for end-to-end encrypted chat, the Ethereum network to transfer value, the SOFA protocol to enable third party apps, and (coming soon) the uPort identity protocol to store user profiles.
+
+
+[Github](https://github.com/tokenbrowser)|
+[Blog](https://blog.tokenbrowser.com/)
 
 
 ## Investment, Trading, Exchanges, Bots
