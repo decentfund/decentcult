@@ -326,7 +326,8 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 [Github](https://github.com/status-im)|
 [Wiki](https://wiki.status.im/)|
 [Reddit](https://www.reddit.com/r/statusim/)|
-[Twitter](https://twitter.com/ethstatus)
+[Twitter](https://twitter.com/ethstatus)|
+[Hackathon](https://hackathon.status.im/)
 
 
 ### [Tokenbrowser](https://www.tokenbrowser.com/)
@@ -335,7 +336,9 @@ Decentralized Apps at your fingertips. With Status your mobile device becomes a 
 
 
 [Github](https://github.com/tokenbrowser)|
-[Blog](https://blog.tokenbrowser.com/)
+[Blog](https://blog.tokenbrowser.com/)|
+[Twitter](https://twitter.com/tokenbrowser)|
+[Hackathon](https://www.tokenbrowser.com/hackathon/)
 
 
 ## Investment, Trading, Exchanges, Bots
